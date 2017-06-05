@@ -1,4 +1,4 @@
-## Web application with Django (Leaned it from Online Course)
+## Web application with Django
 
 ### First Part:
 * creat a personal blog project using MVC model
