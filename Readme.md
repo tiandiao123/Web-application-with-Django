@@ -1,9 +1,9 @@
 ## Web application with Django
 
-### First Part:
+### First Part- Blog Website For Posting:
 * creat a personal blog project using MVC model
 * set up query lists and database tables for this project
-
+* create paginations and template for displaying posts of users
 
 
 ### How to run my webappliation:
@@ -12,7 +12,10 @@
 ```
 python manage.py runserver
 ```
-* open Chrome or IE to type localhost:8000 to see this web appliation
+* open Chrome or IE to type the following commands to see this web appliation
+```
+localhost:8000/blog
+```
 
 ### Reference: 
 * [Django Open Project](https://www.linkedin.com/learning/django-1-building-a-blog/building-list-and-detail-views)
