@@ -4,6 +4,7 @@
 * creat a personal blog project using MVC model
 * set up query lists and database tables for this project
 * create paginations and template for displaying posts of users
+* create a email sending form and a comment system of the blog
 
 
 ### How to run my webappliation:
