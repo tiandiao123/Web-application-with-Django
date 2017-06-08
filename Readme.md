@@ -1,4 +1,4 @@
-## Web application with Django
+## Web application with Django (Learned this project from LinkedIn Learning)
 
 ### First Part- Blog Website For Posting:
 * creat a personal blog project using MVC model
