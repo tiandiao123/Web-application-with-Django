@@ -6,7 +6,7 @@
 * create paginations and template for displaying posts of users
 * create a email sending form and a comment system of the blog
 * implement taggit functionality
-
+* add search engine with solr and Haystack
 
 ### How to run my webappliation:
 * open a terminal in this repository
@@ -18,6 +18,8 @@ python manage.py runserver
 ```
 localhost:8000/blog
 ```
+### Installation:
+* please install [Django](https://www.djangoproject.com/start/),[solr](https://archive.apache.org/dist/lucene/solr/4.10.4/),[Haystack](http://haystacksearch.org/) and [taggit](https://github.com/alex/django-taggit) in your system. 
 
 ### Reference: 
 * [Django Open Project](https://www.linkedin.com/learning/django-1-building-a-blog/building-list-and-detail-views)
