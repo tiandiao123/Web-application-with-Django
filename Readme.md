@@ -8,8 +8,10 @@
 * implement taggit functionality
 * add search engine with solr and Haystack
 
+### Second Part - Construct a social website:
+
 ### How to run my webappliation:
-* open a terminal in this repository
+* open a terminal in this repository, and enter into mysite directory
 * type the following command:
 ```
 python manage.py runserver
